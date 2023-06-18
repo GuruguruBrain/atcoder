@@ -1,6 +1,6 @@
 # atcoder
 
-<img src="https://img.atcoder.jp/assets/atcoder.png" alt="AtCoder logo" style="height: 100px; width:100px;" />
+<img src="https://takap.dev/static/3a74499fd718b89168ab89cd6d358ad2/e9d78/atcoder.webp" alt="AtCoder logo" style="height: 300px;"  />
 
 ## Problems
 
