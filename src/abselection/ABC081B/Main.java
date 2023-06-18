@@ -1,3 +1,5 @@
+//	Shift only
+
 package abselection.ABC081B;
 import java.util.Scanner;
 

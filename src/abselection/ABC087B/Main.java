@@ -1,3 +1,5 @@
+//Coins
+
 package abselection.ABC087B;
 import java.util.Scanner;
 
