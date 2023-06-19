@@ -7,7 +7,16 @@
 <!-- @BEGIN:Problems -->
 | Code | Problem | Solution |
 | --- | --- | --- |
-| ABC088B | [Card Game for Two](https://atcoder.jp/contests/abs/tasks/abc088_b) | [Java]() |
+<!-- |  | []() | [Java]() | -->
+<!-- |  | []() | [Java]() | -->
+<!-- |  | []() | [Java]() | -->
+<!-- |  | []() | [Java]() | -->
+<!-- |  | []() | [Java]() | -->
+<!-- |  | []() | [Java]() | -->
+<!-- |  | []() | [Java]() | -->
+<!-- |  | []() | [Java]() | -->
+<!-- |  | []() | [Java]() | -->
+| ABC088B | [Card Game for Two](https://atcoder.jp/contests/abs/tasks/abc088_b) | [Java](https://github.com/GuruguruBrain/atcoder/blob/main/src/abselection/ABC088B/Main.java) |
 | ABC083B | [Some Sums](https://atcoder.jp/contests/abs/tasks/abc083_b) | [Java](https://github.com/GuruguruBrain/atcoder/blob/main/src/abselection/ABC083B/Main.java) |
 | ABC087B | [Coins](https://atcoder.jp/contests/abs/tasks/abc087_b) | [Java](https://github.com/GuruguruBrain/atcoder/blob/main/src/abselection/ABC087B/Main.java) |
 | ABC081B | [Shift only](https://atcoder.jp/contests/abs/tasks/abc081_b) | [Java](https://github.com/GuruguruBrain/atcoder/blob/main/src/abselection/ABC081B/Main.java) |
