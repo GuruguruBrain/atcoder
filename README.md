@@ -7,8 +7,8 @@
 <!-- @BEGIN:Problems -->
 | Code | Problem | Solution |
 | --- | --- | --- |
-| ABC086C | [Traveling](https://atcoder.jp/contests/abs/tasks/arc089_a) | [Java]() |
-| ABC049C | [Daydream](https://atcoder.jp/contests/abs/tasks/arc065_a) | [Java]() |
+| ABC086C | [Traveling](https://atcoder.jp/contests/abs/tasks/arc089_a) | [Java](https://github.com/GuruguruBrain/atcoder/blob/main/src/abselection/ABC086C/Main.java) |
+| ABC049C | [Daydream](https://atcoder.jp/contests/abs/tasks/arc065_a) | [Java](https://github.com/GuruguruBrain/atcoder/blob/main/src/abselection/ABC049C/Main.java) |
 | ABC085C | [Otoshidama](https://atcoder.jp/contests/abs/tasks/abc085_c) | [Java](https://github.com/GuruguruBrain/atcoder/blob/main/src/abselection/ABC085C/Main.java) |
 | ABC085B | [Kagami Mochi](https://atcoder.jp/contests/abs/tasks/abc085_b) | [Java](https://github.com/GuruguruBrain/atcoder/blob/main/src/abselection/ABC085B/Main.java) |
 | ABC088B | [Card Game for Two](https://atcoder.jp/contests/abs/tasks/abc088_b) | [Java](https://github.com/GuruguruBrain/atcoder/blob/main/src/abselection/ABC088B/Main.java) |
