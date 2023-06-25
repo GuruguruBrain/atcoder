@@ -22,7 +22,9 @@ public class StdinLibrary {
 	        d[i] = sc.nextInt();
 	    }
 		
-		
-		
+		// 標準入力された文字列を１文字ずつ取り出す
+		String[] strArray = s.split("");
+		for(String s2 : strArray) {
+		}
 	}
 }
