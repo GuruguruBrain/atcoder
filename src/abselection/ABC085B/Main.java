@@ -29,9 +29,7 @@ public class Main {
 }
 
 
-
-//Model answer
-/*
+/* Model answer
 
 package abselection.ABC085B;
 

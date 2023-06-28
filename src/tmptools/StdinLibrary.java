@@ -26,5 +26,10 @@ public class StdinLibrary {
 		String[] strArray = s.split("");
 		for(String s2 : strArray) {
 		}
+		
+		// Nとaの最小公倍数を求める
+		int LCM = N % a == 0 ? N : a * N;
+		
+		
 	}
 }
