@@ -8,6 +8,7 @@
 <!-- @BEGIN:Problems -->
 | Contest | A / <br> Solution | B / <br> Solution |
 | --- | --- | --- |
+| [ABC104](https://atcoder.jp/contests/abc104) | [AtCoder Crackers]() /　<br> [Java]() | [Cakes and Donuts]() / <br> [Java]() |
 | [ABC103](https://atcoder.jp/contests/abc103) | [Task Scheduling Problem](https://atcoder.jp/contests/abc103/tasks/abc103_a) /　<br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/src/abc/ABC103/A/Main.java) | [String Rotation](https://atcoder.jp/contests/abc103/tasks/abc103_b) / <br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/src/abc/ABC103/B/Main.java) |
 | [ABC102](https://atcoder.jp/contests/abc102) | [Multiple of 2 and N](https://atcoder.jp/contests/abc102/tasks/abc102_a) /　<br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/src/abc/ABC102/A/Main.java) | [Maximum Difference](https://atcoder.jp/contests/abc102/tasks/abc102_b) / <br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/src/abc/ABC102/B/Main.java) |
 | [ABC101](https://atcoder.jp/contests/abc101) | [Eating Symbols Easy](https://atcoder.jp/contests/abc101/tasks/abc101_a) /　<br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/src/abc/ABC101/A/Main.java) | [Digit Sums](https://atcoder.jp/contests/abc101/tasks/abc101_b) / <br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/src/abc/ABC101/B/Main.java) |
