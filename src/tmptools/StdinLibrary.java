@@ -22,6 +22,10 @@ public class StdinLibrary {
 	        d[i] = sc.nextInt();
 	    }
 		
+		// 文字列を分割して配列に格納
+		String arrS[] = s.split("");
+		String arrT[] = t.split("");
+		
 		// 標準入力された文字列を１文字ずつ取り出す
 		String[] strArray = s.split("");
 		for(String s2 : strArray) {
