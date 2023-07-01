@@ -18,3 +18,28 @@ class Main {
 		}
 	}
 }
+
+/* other answer
+
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        String S = scanner.next();
+        String T = scanner.next();
+
+        for (int i = 0; i < S.length(); i++) {
+            if (S.equals(T)) {
+                System.out.println("Yes");
+                return;
+            }
+            // charAt(最後の文字) + substring(最初～最後-1の文字)で文字列を回転
+            S = S.charAt(S.length() - 1) + S.substring(0, S.length() - 1);
+        }
+        System.out.println("No");
+    }
+}
+
+
+*/

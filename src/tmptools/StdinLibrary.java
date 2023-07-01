@@ -34,6 +34,9 @@ public class StdinLibrary {
 		// Nとaの最小公倍数を求める
 		int LCM = N % a == 0 ? N : a * N;
 		
+		// charAt(最後の文字) + substring(最初～最後-1の文字)で文字列を回転
+        s = s.charAt(s.length() - 1) + s.substring(0, s.length() - 1);
+		
 		
 	}
 }
