@@ -1,5 +1,7 @@
 package tmptools;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class StdinLibrary {
@@ -21,6 +23,12 @@ public class StdinLibrary {
 		for (int i = 0; i < N; i++) {
 	        d[i] = sc.nextInt();
 	    }
+		
+		// 3つの数字をリストに格納
+        List<Integer> numbers = new ArrayList<>();
+        for (int i = 0; i < 3; i++) {
+            numbers.add(sc.nextInt());
+        }
 		
 		// 文字列を分割して配列に格納
 		String arrS[] = s.split("");
