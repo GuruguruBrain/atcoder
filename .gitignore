@@ -1,12 +1,4 @@
 "Java/temptools/" 
 
-
-# Java関連の無視設定
 Java.gitignore
-
-# Python関連の無視設定
 Python.gitignore
-
-
-# その他の設定
-# ...
