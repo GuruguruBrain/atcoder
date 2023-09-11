@@ -1,0 +1,16 @@
+# .gitignoreファイルの内容
+
+# 特定のファイルを無視
+myfile.txt
+Java/tmptools/StdinLibrary.java
+Java/tmptools/template.java
+
+
+# 特定の拡張子を持つ全てのファイルを無視
+*.log
+*.gitignore
+*.vscode
+
+# 特定のフォルダとその中身全てを無視
+myfolder/
+Java/tmptools/
