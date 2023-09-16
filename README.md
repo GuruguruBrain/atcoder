@@ -8,7 +8,6 @@
 <!-- @BEGIN:Problems -->
 | Contest | A / <br> Solution | B / <br> Solution | C / <br> Solution |
 | --- | --- | --- | --- |
-
 | [ABC320](https://atcoder.jp/contests/abc320) | [Leyland Number](https://atcoder.jp/contests/abc320/tasks/abc320_a) / <br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/Java/abc/ABC320/A/Main.java) | [Longest Palindrome](https://atcoder.jp/contests/abc320/tasks/abc320_b) / <br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/Java/abc/ABC320/B/Main.java) | [Slot Strategy 2 (Easy)](https://atcoder.jp/contests/abc320/tasks/abc320_c) / <br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/Java/abc/ABC320/C/Main.java) |
 
 | [ABC319](https://atcoder.jp/contests/abc319) |
