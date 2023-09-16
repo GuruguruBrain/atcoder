@@ -21,6 +21,8 @@ class Main {
 		for (int i = 0; i < M; i++) {
 			y[i] = sc.nextInt();
 		}
+
+        sc.close();
 		
         int maxX = X;
         for (int i = 0; i < N; i++) {

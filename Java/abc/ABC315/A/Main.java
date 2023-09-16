@@ -16,6 +16,7 @@ class Main {
         Scanner sc = new Scanner(System.in);
         String S = sc.next();
         StringBuilder result = new StringBuilder();
+        sc.close();
 
         for (char c : S.toCharArray()) {
             if (c != 'a' && c != 'e' && c != 'i' && c != 'o' && c != 'u') {

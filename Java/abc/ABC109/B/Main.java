@@ -12,6 +12,7 @@ class Main {
 		for(int i = 0; i < N; i++) {
 			W[i] = sc.next();
 		}
+		sc.close();
 		
 		boolean notShiritori = false;
 		

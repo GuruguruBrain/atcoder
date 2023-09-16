@@ -15,6 +15,7 @@ public class Main {
 		for (int i = 0; i < N; i++) {
 	        d[i] = sc.nextInt();
 	    }
+		sc.close();
 		Arrays.sort(d, Comparator.reverseOrder());
 		
 		int kagamiMochi = 1; // 最初のMochiをカウント

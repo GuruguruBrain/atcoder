@@ -17,6 +17,7 @@ class Main {
         for (int i = 0; i < N; i++) {
             S[i] = sc.next().toCharArray(); // 各人の予定を文字列から配列に変換して格納
         }
+        sc.close();
 
         int maxFreeDays = 0; // 連続する全員が暇な日の最大数
         int curFreeDays = 0; // 現在の連続する全員が暇な日の数

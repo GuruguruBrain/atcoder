@@ -19,6 +19,7 @@ public class Main {
                 table[i][j] = Integer.parseInt(String.valueOf(row.charAt(j)));
             }
         }
+        sc.close();
 
         // 入力された値をまとめてリストに格納
         for(int i = 0; i < N; i++) outerRing.add(table[0][i]); // 上の行

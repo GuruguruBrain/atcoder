@@ -23,6 +23,7 @@ class Main {
                 break;
             }
         }
+        sc.close();
         
         System.out.println(isValid ? "Yes" : "No");
     }

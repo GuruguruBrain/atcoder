@@ -10,6 +10,7 @@ class Main {
 		int N = sc.nextInt();
 		String S = sc.next();
 		String arrS[] = S.split("");
+		sc.close();
 		
 		boolean A = false;
 		boolean B = false;

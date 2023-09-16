@@ -9,6 +9,7 @@ class Main {
 		Scanner sc = new Scanner(System.in);
         int A = sc.nextInt();
         int B = sc.nextInt();
+        sc.close();
         System.out.println((int)(Math.pow(A, B) + Math.pow(B, A)));
 	}
 }

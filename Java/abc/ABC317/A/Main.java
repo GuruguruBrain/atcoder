@@ -14,6 +14,7 @@ class Main {
 		for (int i = 0; i < N; i++) {
 	        P[i] = sc.nextInt();
 	    }
+		sc.close();
 		
 		for (int i = 0; i < N; i++) {
 			if (H + P[i] >= X) {

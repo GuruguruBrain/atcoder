@@ -31,6 +31,7 @@ class Main {
                 }
             }
         }
+        sc.close();
 
         // 白マスだけの行と列を除外して、マス目を出力する
         for (int i = 0; i < H; i++) {

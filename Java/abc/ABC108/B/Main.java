@@ -12,6 +12,7 @@ public class Main {
         int y1 = sc.nextInt();
         int x2 = sc.nextInt();
         int y2 = sc.nextInt();
+        sc.close();
         
         // 回転行列を使用
         // x1, y1からx2, y2への移動量を計算

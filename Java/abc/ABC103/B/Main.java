@@ -9,6 +9,7 @@ class Main {
 		Scanner sc = new Scanner(System.in);
 		String S = sc.next();
 		String T = sc.next();
+        sc.close();
 		
 		S += S;
 		if (S.contains(T)) {

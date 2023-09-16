@@ -8,6 +8,7 @@ class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int K = sc.nextInt();
+		sc.close();
 		int odd = 0;
 		int even = 0;
 		

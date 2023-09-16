@@ -10,6 +10,7 @@ public class Main {
 		int B = sc.nextInt();
 		int C = sc.nextInt();
 		int X = sc.nextInt();
+		sc.close();
 
 		int res = 0;
 		for (int a = 0; a <= A; a++) {

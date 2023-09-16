@@ -11,6 +11,7 @@ public class Main {
 		for (int i = 0;i < N; i++) {
 			bit |= sc.nextInt();
 		}
+		sc.close();
 		System.out.println(Integer.numberOfTrailingZeros(bit));
 	}
 }

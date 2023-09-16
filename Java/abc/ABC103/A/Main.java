@@ -12,6 +12,7 @@ class Main {
         for(int i=0; i<3; i++){
             A[i] = sc.nextInt();
         }
+        sc.close();
         Arrays.sort(A);
         int minCost = Math.abs(A[0] - A[1]) + Math.abs(A[1] - A[2]);
         System.out.println(minCost);

@@ -8,6 +8,7 @@ class Main {
         Scanner sc = new Scanner(System.in);
         int A = sc.nextInt();
         int B = sc.nextInt();
+        sc.close();
 
         int[][] table = {
             {1, 2, 3},

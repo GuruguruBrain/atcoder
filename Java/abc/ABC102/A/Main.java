@@ -8,6 +8,7 @@ class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt();
+		sc.close();
 		
 		// Nと2の最小公倍数を求める
 		int LCM = N % 2 == 0 ? N : 2 * N;

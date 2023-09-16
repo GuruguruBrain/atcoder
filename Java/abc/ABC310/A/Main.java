@@ -14,6 +14,7 @@ class Main {
     	for (int i = 0; i < N; i++) {
     		D[i] = sc.nextInt();
     	}
+		sc.close();
     	
     	int min = D[0];
     	

@@ -30,6 +30,7 @@ class Main {
             roads[A][B] = C;
             roads[B][A] = C;  // 道路は双方向のため逆も保存
         }
+        sc.close();
 
         // 各街から探索を開始
         for (int i = 1; i <= N; i++) {

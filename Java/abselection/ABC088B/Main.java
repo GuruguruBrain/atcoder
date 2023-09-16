@@ -15,6 +15,7 @@ public class Main {
             a[i] = sc.nextInt();
         }
 		Arrays.sort(a, Comparator.reverseOrder());
+		sc.close();
 		
 		int Alice = 0;
 		int Bob = 0;

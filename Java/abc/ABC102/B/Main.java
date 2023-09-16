@@ -13,6 +13,7 @@ class Main {
 		for (int i = 0; i < N; i++) {
 			a[i] = sc.nextInt();
 		}
+		sc.close();
 
 		int max = a[0];
 		int min = a[0];

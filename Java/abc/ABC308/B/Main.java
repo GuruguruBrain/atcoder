@@ -21,6 +21,7 @@ class Main {
 		for (int i = 0; i < M +1; i++) {
 			P[i] = sc.nextInt();
 		}
+		sc.close();
 
 		int colorTotal = 0;
 		int notColorTotal = 0;
@@ -39,12 +40,16 @@ class Main {
 
 		// 料金表Pにない色Dの合計
 		for (int i = 0; i < N; i++) {
+			if (explored[i]) {
+				continue;
+			}
 			for (int j = 0; j < M; j++) {
 				// 料金表Pにある色Dでないかつ、探索済みのC[i]でない場合
-				if (!C[i].equals( D[j]) && !explored[i]) {
+				if (!C[i].equals(D[j]) && !explored[i]) {
 					notColorTotal += P[0];
+					explored[i] = true; // このC[i]に対する料金を追加したので探索済みにする
+					break;
 				}
-				break;
 			}
 		}
 

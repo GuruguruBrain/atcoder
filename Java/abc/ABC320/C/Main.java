@@ -4,8 +4,6 @@ package abc.ABC320.C;
 
 import java.util.*;
 
-import java.util.*;
-
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -17,6 +15,7 @@ public class Main {
         for (int i = 0; i < 3; i++) {
             reels[i] = sc.nextLine();
         }
+        sc.close();
 
         // 各数字がどの時間に出現するかのマップ
         Map<Integer, List<Integer>>[] timingMaps = new HashMap[3];

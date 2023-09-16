@@ -13,6 +13,7 @@ class Main {
 		for (int i = 0; i < N; i++) {
 	        A[i] = sc.nextInt();
 		}
+		sc.close();
 		Arrays.sort(A);
 		
 		for (int i = 0; i < N; i++) {

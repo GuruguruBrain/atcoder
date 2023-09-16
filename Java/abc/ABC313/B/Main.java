@@ -17,6 +17,7 @@ class Main {
             int B = sc.nextInt() - 1;
             graph[A][B] = true;
         }
+        sc.close();
 
         // 推移律を適用してグラフを更新
         for (int k = 0; k < N; k++) {

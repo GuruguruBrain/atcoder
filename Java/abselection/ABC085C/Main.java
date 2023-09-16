@@ -10,6 +10,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
         int Y = sc.nextInt();
+        sc.close();
         
         int[] qty = {-1, -1, -1};
         

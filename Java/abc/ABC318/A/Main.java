@@ -10,6 +10,7 @@ class Main {
 		int N = sc.nextInt();
 		int M = sc.nextInt();
 		int P = sc.nextInt();
+		sc.close();
 		int result = 0;
 
 		if (N < M) {

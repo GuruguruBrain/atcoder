@@ -12,6 +12,7 @@ class Main {
 		for (int i = 0; i < 3; i++) {
 	        ary[i] = sc.nextInt();
 	    }
+        sc.close();
 		Arrays.sort(ary);
 		System.out.println((ary[2] * 10) + ary[1] + ary[0]);
 	}

@@ -13,6 +13,7 @@ class Main {
         for (int i = 0; i < M; i++) {
             D[i] = sc.nextInt();
         }
+        sc.close();
 
         int middleDay = 0;
         int sum = 0;

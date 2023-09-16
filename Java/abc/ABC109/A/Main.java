@@ -9,6 +9,7 @@ class Main {
 		Scanner sc = new Scanner(System.in);
 		int A = sc.nextInt();
 		int B = sc.nextInt();
+		sc.close();
 		
 		if ((A * B) % 2 == 0) {
 			System.out.println("No");

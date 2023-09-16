@@ -7,19 +7,20 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         // ユーザーからの入力を受け取る
-        int N = scanner.nextInt();  // 旅行する合計日数
-        int D = scanner.nextInt();  // 1セットの周遊パスの枚数
-        long P = scanner.nextLong();  // 1セットの周遊パスの価格
+        int N = sc.nextInt();  // 旅行する合計日数
+        int D = sc.nextInt();  // 1セットの周遊パスの枚数
+        long P = sc.nextLong();  // 1セットの周遊パスの価格
+        sc.close();
 
         long totalFare = 0;  // 運賃の合計
         long F[] = new long[N];  // 各日の運賃
         
         // 各日の運賃を初期化し、運賃の合計を計算する
         for (int i = 0; i < N; i++) {
-            F[i] = scanner.nextLong();
+            F[i] = sc.nextLong();
             totalFare += F[i];
         }
 

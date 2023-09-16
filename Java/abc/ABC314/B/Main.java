@@ -22,6 +22,7 @@ class Main {
 			bets.add(betNumbers); // この人の賭けた目の情報をリストに追加
 		}
 		int X = sc.nextInt();
+		sc.close();
 		
 		// 賭けた目の個数が最も少ない人の賭けた目の個数
 		int minBets = Integer.MAX_VALUE;

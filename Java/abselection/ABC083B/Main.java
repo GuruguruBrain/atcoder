@@ -9,6 +9,7 @@ class Main {
         int N = sc.nextInt();
         int A = sc.nextInt();
         int B = sc.nextInt();
+        sc.close();
  
         int sum = 0;
         for (int i = 1; i <= N; i++) {

@@ -8,6 +8,7 @@ class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
+        sc.close();
         int preT = 0;
         int preX = 0;
         int preY = 0;

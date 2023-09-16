@@ -12,7 +12,6 @@ class Main {
 	public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt(); // 商品の数
-        int M = sc.nextInt(); // 機能の最大数
 
         // 商品の価格と機能を保存するための変数
         int[] prices = new int[N];
@@ -28,6 +27,7 @@ class Main {
             }
             allFeatures.add(features); // 商品の機能をリストに追加
         }
+        sc.close();
 
         // すべての商品ペアを検証し、条件を満たすものがあるか確認する
         for (int i = 0; i < N; i++) {

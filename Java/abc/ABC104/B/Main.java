@@ -8,6 +8,7 @@ class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String S = sc.next();
+        sc.close();
 
         // 指定の範囲の文字列を取得
         String partialS = S.substring(2, S.length() - 1);
