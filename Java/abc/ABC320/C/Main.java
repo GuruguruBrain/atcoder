@@ -4,6 +4,7 @@ package abc.ABC320.C;
 
 import java.util.*;
 
+// WA
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
