@@ -8,7 +8,7 @@
 <!-- @BEGIN:Problems -->
 | Contest | A / <br> Solution | B / <br> Solution | C / <br> Solution |
 | --- | --- | --- | --- |
-| [ABC319](https://atcoder.jp/contests/abc319) | []() /　<br> [Java]() | []() / <br> [Java]() | []() / <br> [Java]() |
+| [ABC319](https://atcoder.jp/contests/abc319) |
 | [ABC318](https://atcoder.jp/contests/abc318) | [Full Moon](https://atcoder.jp/contests/abc318/tasks/abc318_a) /　<br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/Java/abc/ABC318/A/Main.java) | [Overlapping sheets](https://atcoder.jp/contests/abc318/tasks/abc318_b) / <br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/Java/abc/ABC318/B/Main.java) | [Blue Spring](https://atcoder.jp/contests/abc318/tasks/abc318_c) / <br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/Java/abc/ABC318/C/Main.java) |
 | [ABC317](https://atcoder.jp/contests/abc317) | [Potions](https://atcoder.jp/contests/abc317/tasks/abc317_a) /　<br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/Java/abc/ABC317/A/Main.java) | [MissingNo.](https://atcoder.jp/contests/abc317/tasks/abc317_b) / <br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/Java/abc/ABC317/B/Main.java) | [Remembering the Days](https://atcoder.jp/contests/abc317/tasks/abc317_c) / <br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/Java/abc/ABC317/C/Main.java) |
 | [ABC315](https://atcoder.jp/contests/abc315) | [tcdr](https://atcoder.jp/contests/abc315/tasks/abc315_a) /　<br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/Java/abc/ABC315/A/Main.java) | [The Middle Day](https://atcoder.jp/contests/abc315/tasks/abc315_b) / <br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/Java/abc/ABC315/B/Main.java) |
