@@ -32,6 +32,7 @@
 | [ABC103](https://atcoder.jp/contests/abc103) | [Task Scheduling Problem](https://atcoder.jp/contests/abc103/tasks/abc103_a) /　<br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/Java/abc/ABC103/A/Main.java) | [String Rotation](https://atcoder.jp/contests/abc103/tasks/abc103_b) / <br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/Java/abc/ABC103/B/Main.java) |
 | [ABC102](https://atcoder.jp/contests/abc102) | [Multiple of 2 and N](https://atcoder.jp/contests/abc102/tasks/abc102_a) /　<br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/Java/abc/ABC102/A/Main.java) | [Maximum Difference](https://atcoder.jp/contests/abc102/tasks/abc102_b) / <br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/Java/abc/ABC102/B/Main.java) |
 | [ABC101](https://atcoder.jp/contests/abc101) | [Eating Symbols Easy](https://atcoder.jp/contests/abc101/tasks/abc101_a) /　<br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/Java/abc/ABC101/A/Main.java) | [Digit Sums](https://atcoder.jp/contests/abc101/tasks/abc101_b) / <br> [Java](https://github.com/GuruguruBrain/atcoder/blob/main/Java/abc/ABC101/B/Main.java) |
+| [ABC088](https://atcoder.jp/contests/abc088) |  |  | [Takahashi's Information](https://atcoder.jp/contests/abc088/tasks/abc088_c) / <br> [Python](https://github.com/GuruguruBrain/atcoder/blob/main/Python/abc/ABC088/C/main.py) |
 
 <!-- | []() | []() /　<br> [Python]() | []() / <br> [Python]() | []() / <br> [Python]() | -->
 <!-- | []() | []() /　<br> [Java]() | []() / <br> [Java]() | []() / <br> [Java]() | -->
