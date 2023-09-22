@@ -37,6 +37,16 @@
 <!-- | []() | []() /　<br> [Python]() | []() / <br> [Python]() | []() / <br> [Python]() | -->
 <!-- | []() | []() /　<br> [Java]() | []() / <br> [Java]() | []() / <br> [Java]() | -->
 
+
+## [Practical Algorithm Skill Test](https://kenkoooo.com/atcoder/#/table/)
+
+<!-- @BEGIN:Problems -->
+| Code | A / <br> Solution | B / <br> Solution | C / <br> Solution |
+| --- | --- | --- | --- |
+| [PAST202004](https://atcoder.jp/contests/past202004-open) |  | [Plurality Voting](https://atcoder.jp/contests/past202004-open/tasks/past202004_b) / <br> [Python](https://github.com/GuruguruBrain/atcoder/blob/main/Python/past_practice/past202004_b.py) | [Landslide](https://atcoder.jp/contests/past202004-open/tasks/past202004_c) / <br> [Python](https://github.com/GuruguruBrain/atcoder/blob/main/Python/past_practice/past202004_c.py) |
+| [PAST201912](https://atcoder.jp/contests/past201912-open) |  |  | [The Third](https://atcoder.jp/contests/past201912-open/tasks/past201912_c) / <br> [Python](https://github.com/GuruguruBrain/atcoder/blob/main/Python/past_practice/past201912_c.py) |
+
+
 ## [AtCoder Beginners Selection](https://atcoder.jp/contests/abs)
 
 <!-- @BEGIN:Problems -->
