@@ -3,7 +3,7 @@
 <a href="https://atcoder.jp/"><img src="https://takap.dev/static/3a74499fd718b89168ab89cd6d358ad2/e9d78/atcoder.webp" alt="AtCoder logo" style="auto" /></a>
 
 
-## [AtCoder Problems](https://kenkoooo.com/atcoder/#/table/)
+## [AtCoder Problems](https://atcoder.jp/contests/archive?ratedType=1&category=0&keyword=)
 
 <!-- @BEGIN:Problems -->
 | Contest | A / <br> Solution | B / <br> Solution | C / <br> Solution |
@@ -38,7 +38,7 @@
 <!-- | []() | []() /　<br> [Java]() | []() / <br> [Java]() | []() / <br> [Java]() | -->
 
 
-## [Practical Algorithm Skill Test](https://kenkoooo.com/atcoder/#/table/)
+## [Practical Algorithm Skill Test](https://atcoder.jp/contests/archive?ratedType=0&category=50&keyword=)
 
 <!-- @BEGIN:Problems -->
 | Code | A / <br> Solution | B / <br> Solution | C / <br> Solution |
