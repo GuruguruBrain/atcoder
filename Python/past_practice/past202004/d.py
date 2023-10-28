@@ -43,3 +43,5 @@ for c1 in C:
             T = c1 + c2 + c3
             if is_match(T, S):
                 M.append(T)
+                
+print(len(M))
