@@ -77,3 +77,6 @@
 | ABC081A | [Placing Marbles](https://atcoder.jp/contests/abs/tasks/abc081_a) | [Java](https://github.com/GuruguruBrain/atcoder/blob/main/Java/abselection/ABC081A/Main.java) |
 | ABC086A | [Product](https://atcoder.jp/contests/abs/tasks/abc086_a) | [Java](https://github.com/GuruguruBrain/atcoder/blob/main/Java/abselection/ABC086A/Main.java) |
 | PracticeA | [Welcome to AtCoder](https://atcoder.jp/contests/abs/tasks/practice_1) | [Java](https://github.com/GuruguruBrain/atcoder/blob/main/Java/abselection/PracticeA/Main.java) |
+
+
+## [repeated_practice](https://github.com/GuruguruBrain/atcoder/blob/main/Python/repeated_practice)
