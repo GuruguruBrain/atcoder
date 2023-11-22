@@ -79,5 +79,4 @@
 | PracticeA | [Welcome to AtCoder](https://atcoder.jp/contests/abs/tasks/practice_1) | [Java](https://github.com/GuruguruBrain/atcoder/blob/main/Java/abselection/PracticeA/Main.java) |
 
 
-
-## [repeated_practice](https://github.com/GuruguruBrain/atcoder/blob/main/Python/repeated_practice)
+## [repeated practice](https://github.com/GuruguruBrain/atcoder/blob/main/Python/repeated_practice)
